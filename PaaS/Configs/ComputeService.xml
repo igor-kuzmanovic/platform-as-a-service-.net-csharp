@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<ComputeService>
+  <ContainerExecutablePath>C:\Stuff\Fax\S6\CCuES\Vezbe\Projekat\PaaS\Container\bin\Debug\Container.exe</ContainerExecutablePath>
+  <ContainerDirectory>C:\Users\Evervess\Desktop\PaaS\Containers</ContainerDirectory>
+  <ContainerEndpointPath>Container</ContainerEndpointPath>
+  <ContainerCapacity>4</ContainerCapacity>
+  <PackageDirectory>C:\Users\Evervess\Desktop\PaaS</PackageDirectory>
+  <PackageCheckInterval>1000</PackageCheckInterval>
+  <StateCheckInterval>500</StateCheckInterval>
+  <RoleEnvironmentEndpointPort>10010</RoleEnvironmentEndpointPort>
+  <RoleEnvironmentEndpointPath>RoleEnvironment</RoleEnvironmentEndpointPath>
+  <MinPort>49152</MinPort>
+  <MaxPort>65535</MaxPort>
+</ComputeService>
